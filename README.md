@@ -18,7 +18,8 @@ This is a **realistic, production-ready inventory optimization project** designe
   - 🎄 Public holidays
   - 🦠 Flu/COVID waves
   - 🎓 School holidays
-- Improves demand accuracy using **real-world temporal features**.
+  - 🌧️ Weather events *(future extension)*
+  - 💰 Promotional events *(future extension)*
 
 ### ✅ Expiry Management Module
 - Auto-detect SKUs nearing expiry.
@@ -69,6 +70,7 @@ This is a **realistic, production-ready inventory optimization project** designe
 
 ## 📁 Project Structure
 
+
 ---
 
 ## 🧪 Status
@@ -94,19 +96,27 @@ This is a **realistic, production-ready inventory optimization project** designe
 
 ---
 
-## 💡 Future Extensions
+## 🌱 Future Extensions
 
-- Integrate external sales signals (weather, promos, traffic).
-- Incorporate pricing strategy into optimization.
-- Link to live sales APIs for retraining on actual data.
+These are scoped and modular, and can be added progressively:
+- 🧠 Incorporate **external drivers** like:
+  - Weather data
+  - Promo campaign schedules
+  - Footfall or mobility trends
+- 💹 Link with **dynamic pricing models** to influence demand
+- 🛒 Real-time integration with:
+  - Live sales APIs
+  - Inventory tracking tools (e.g., via Zapier, Google Sheets API)
+- 📡 Cloud deployment (e.g., Streamlit Share, Hugging Face Spaces)
+- 📈 Use LSTM / Transformer models for long-range demand prediction
+- 🔄 Auto-retrain pipelines with MLFlow or Prefect
 
 ---
 
 ## 👤 Author
 
-Created with ❤️ by [LING CHIN UNG].  
+Created with ❤️ by [LING CHIN UNG]  
 Open to feedback, contributions, and collaborations!
 
 ---
-
 
