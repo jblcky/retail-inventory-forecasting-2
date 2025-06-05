@@ -1,0 +1,8 @@
+forecast:
+  horizon_days: 30
+  model: prophet
+  holidays: true
+  flu_season: true
+safety_stock:
+  z_score: 1.65
+  min_stock: 5
