@@ -1,0 +1,11 @@
+sku_id,category,supplier,lead_time_days,unit_cost
+SKU_001,Medicine,Supplier_1,7,4.53
+SKU_002,Supplement,Supplier_1,21,7.14
+SKU_003,Supplement,Supplier_2,7,4.74
+SKU_004,Medicine,Supplier_4,7,4.58
+SKU_005,Personal Care,Supplier_2,14,9.47
+SKU_006,Medicine,Supplier_1,7,2.59
+SKU_007,Personal Care,Supplier_4,21,3.38
+SKU_008,Personal Care,Supplier_3,21,2.75
+SKU_009,Personal Care,Supplier_2,21,3.36
+SKU_010,Supplement,Supplier_4,7,6.56
