@@ -1,8 +1,39 @@
-# requirements.txt
+# Core data science and ML
 pandas
 numpy
-prophet
 scikit-learn
+xgboost
+lightgbm
+
+# Deep learning (optional modules)
+tensorflow
+torch
+torchvision
+
+# Visualization
 matplotlib
+seaborn
+plotly
+
+# Time series & seasonality
+statsmodels
+prophet   # Use 'cmdstanpy' backend (Prophet is now Meta Prophet)
+
+# Explainable AI
+shap
+
+# Streamlit UI (optional)
 streamlit
-mlflow
+
+# Utility
+tqdm
+scipy
+joblib
+python-dateutil
+
+# File management & automation
+PyYAML
+watchdog  # For retrain hooks if scheduled
+
+# Ensure compatibility with Colab
+ipykernel
