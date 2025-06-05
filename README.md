@@ -66,3 +66,47 @@ This is a **realistic, production-ready inventory optimization project** designe
 | Automation Ready       | Python, modular pipeline design |
 
 ---
+
+## 📁 Project Structure
+
+---
+
+## 🧪 Status
+
+| Module                     | Status       |
+|---------------------------|--------------|
+| Synthetic data generation | ✅ Complete   |
+| EDA & Insights            | ✅ Complete   |
+| Forecasting Model         | ⚙️ In Progress |
+| Expiry Redistribution     | ⬜ Upcoming   |
+| Explainability (SHAP)     | ⬜ Upcoming   |
+| Streamlit Dashboard       | ⬜ Optional   |
+| Auto-Retraining Hooks     | ⬜ Optional   |
+
+---
+
+## 📌 Goals
+
+- Deliver a **realistic**, **modular**, and **scalable** inventory solution.
+- Support both business teams and technical deployment.
+- Show how to build an end-to-end ML pipeline on **free tools only**.
+- Be easily adaptable to other retail or FMCG businesses.
+
+---
+
+## 💡 Future Extensions
+
+- Integrate external sales signals (weather, promos, traffic).
+- Incorporate pricing strategy into optimization.
+- Link to live sales APIs for retraining on actual data.
+
+---
+
+## 👤 Author
+
+Created with ❤️ by [LING CHIN UNG].  
+Open to feedback, contributions, and collaborations!
+
+---
+
+
